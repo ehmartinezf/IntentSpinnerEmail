@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IntentSpinnerEmail</string>
+    <string name="formulario_de_contacto">Formulario de contacto</string>
+    <string name="introduce_tu_nombre">Introduce tu nombre</string>
+    <string name="correo_de_contacto_para_recibir_respuesta">Correo de contacto (para recibir respuesta)</string>
+    <string name="tipo_de_consulta">Tipo de consulta:</string>
+    <string name="escribe_tu_mensaje">Escribe tu mensaje...</string>
+    <string name="enviar_tambi_n_una_copia_a_este_correo">Enviar también una copia a este correo</string>
+    <string name="preparar_correo">Preparar correo</string>
+    <string-array name="tipos">
+        <item>Consulta</item>
+        <item>Incidencia</item>
+        <item>Sugerencia</item>
+    </string-array>
+</resources>
